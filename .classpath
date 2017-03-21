@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/com.google.common-guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-annotations-2.6.0-cdh5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-auth-2.6.0-cdh5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-aws-2.6.0-cdh5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-client-2.6.0-cdh5.4.0-20150401.090022-234.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0-cdh5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-2.6.0-mr1-cdh5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-distcp-2.6.0-cdh5.4.0-20150401.085752-234.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0-cdh5.5.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0-cdh5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/htrace-core-2.05.jar"/>
+	<classpathentry kind="lib" path="lib/htrace-core-3.2.0-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/htrace-core4-4.2.0-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/htrace-zipkin-2.05.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-over-slf4j-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/oozie-hadoop-distcp-2.6.0-cdh5.4.0-SNAPSHOT.oozie-4.1.0-cdh5.4.0-20150401.084556-311.jar"/>
+	<classpathentry kind="lib" path="lib/oozie-hadoop-utils-2.6.0-cdh5.4.0-SNAPSHOT.oozie-4.1.0-cdh5.4.0-20150401.084600-311.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-ext-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-migrator-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-nop-1.7.24.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
